@@ -1,0 +1,1 @@
+The Weather App is a dynamic web application designed to provide users with real-time weather information. Utilizing weather data APIs, the app displays current weather conditions, hourly forecasts, and more. It is built using modern web technologies to ensure a responsive and user-friendly experience.
